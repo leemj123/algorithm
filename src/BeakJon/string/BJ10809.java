@@ -1,4 +1,4 @@
-package string;
+package BeakJon.string;
 
 import java.io.*;
 import java.util.Arrays;
